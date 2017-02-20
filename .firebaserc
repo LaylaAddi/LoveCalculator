@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "chesnowitz",
+    "chesnowitz": "chesnowitz-f3030"
+  }
+}

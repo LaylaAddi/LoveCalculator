@@ -1,7 +1,7 @@
 {
-  "name": "love-calculator",
-  "author": "Stephen Chesnowtiz",
-  "homepage": "http://chesnowtiz.com/",
+  "name": "the-love-calculator", 
+  "author": "Steve Chesnowtiz",
+  "homepage": "http://chesnowitz.com/",
   "private": false,
   "scripts": {
     "clean": "ionic-app-scripts clean",
