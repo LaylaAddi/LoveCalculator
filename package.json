@@ -1,8 +1,8 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
-  "private": true,
+  "name": "Steve Chesnowitz Love Calculator",
+  "author": "Stephen Chesnowtiz",
+  "homepage": "http://chesnowtiz.com/",
+  "private": false,
   "scripts": {
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
